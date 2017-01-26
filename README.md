@@ -1,24 +1,11 @@
-# README
+# Nerds of Play
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Nerds of Play is a forum/messsage board application to connect tabletop game players to organize games in their city. It is a Rails App Using Postgresql for the database, bootstrap for styling, devise for authentication, and simple_form for a few form helpers.
 
-Things you may want to cover:
+![alt text](http://imgur.com/0wXCIJ7 "User Stories")
 
-* Ruby version
+![alt text](http://imgur.com/LMSYCXT "User Stories")
 
-* System dependencies
+![alt text](http://imgur.com/6D6M4Zs "User Stories")
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+![alt text](http://imgur.com/mKnwjJm "ERD")
