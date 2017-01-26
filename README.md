@@ -2,10 +2,10 @@
 
 Nerds of Play is a forum/messsage board application to connect tabletop game players to organize games in their city. It is a Rails App Using Postgresql for the database, bootstrap for styling, devise for authentication, and simple_form for a few form helpers.
 
-![alt text](http://imgur.com/0wXCIJ7 "User Stories")
+![User Stories](http://imgur.com/0wXCIJ7)
 
-![alt text](http://imgur.com/LMSYCXT "User Stories")
+![User Stories](http://imgur.com/LMSYCXT)
 
-![alt text](http://imgur.com/6D6M4Zs "User Stories")
+![User Stories](http://imgur.com/6D6M4Zs)
 
-![alt text](http://imgur.com/mKnwjJm "ERD")
+![ERD](http://imgur.com/mKnwjJm)
