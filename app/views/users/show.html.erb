@@ -1,0 +1,21 @@
+<body>
+    <div class="team-boxed">
+        <div class="container">
+            <div class="row people">
+                <div class="col-md-4 col-sm-6 item">
+                    <div class="box"><img src="1.jpg" class="img-circle"/>
+
+                        <% if current_user != @user %>
+                        <h3 class="name"><% user_path %></h3>
+                        <% end %>
+                        <p class="title"><%= @user.username %></p>
+                        <p class="description"><%= @user.email %></p>
+                        <% if @user == current_user %>
+                        <p><%= link_to "Edit Profile", edit_user_registration_path %></p>
+                        <% end %>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>

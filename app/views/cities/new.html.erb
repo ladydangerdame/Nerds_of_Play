@@ -1,0 +1,7 @@
+<div class="form-group row">
+  <%= form_for :city, url: "/cities", method: "post" do |f| %>
+  <%= f.text_field :name %>
+  <%= f.text_field :location %>
+  <%= f.submit "Save City", class: "btn btn-custom" %>
+<% end %>
+</div>
