@@ -14,11 +14,17 @@
  *= require_tree .
  *= require_self
  */
- @import url(http://fonts.googleapis.com/css?family=Playfair+Display|Muli:300,400);
+ @import url(https://fonts.googleapis.com/css?family=Playfair+Display|Muli:300,400);
 @import "bootstrap-sprockets";
 @import "bootstrap";
 
 /* General styles */
+
+.header-dark {
+  background:url(http://imgur.com/BfIAcA7) #444;
+  background-size:cover;
+  padding-bottom:120px;
+}
 
 
 
